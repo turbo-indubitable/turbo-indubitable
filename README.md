@@ -2,8 +2,7 @@
 
 Co-founder and AI Researcher at [Bayence](https://github.com/Indubitable-Industries/bayence).
 
-Building unsupervised anomaly detection systems. 
-Interested in representation learning, probabilistic inference, and what models actually learn versus what we think they learn.
+Building unsupervised anomaly detection systems. Interested in representation learning, probabilistic inference, and what models actually learn versus what we think they learn.
 
 ## Current Work
 
@@ -14,26 +13,18 @@ Interested in representation learning, probabilistic inference, and what models 
 - [xagentsync](https://github.com/Indubitable-Industries/xagentsync) — Handoff protocol for LLM assistants
 - [Agent_Research_Harness](https://github.com/Indubitable-Industries/Agent_Research_Harness) — Structured research skill for Claude
 
+## Skills
+
+📊 Uncertainty quantification • 🧠 Unsupervised learning • 🔒 Zero-config security • ☕ Caffeine-to-code converter
+
+## Tech
+
+🐍 Python • 🦀 Rust (solo or PyO3/Maturin) • 🔥 PyTorch • ☁️ GCP / RunPod
+
+## Other (Somewhat) Important Information
+
+🧊 Cold start survivor • 🎯 Anomaly-pilled
+
 ## Elsewhere
 
-- [LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/daniel-kelly-961518288/))
-
-
-Skills:
-
-📊 Uncertainty quantification
-🧠 Unsupervised learning
-🔒 Zero-config security
-☕ Caffeine-to-code converter
-
-Tech Stacks:
-
-🐍 Python
-🦀 Rust (alone or with 03/Maturin)
-🔥 PyTorch
-☁️ GCP / RunPod
-
-Other (somewhat) Important Information: 
-
-🧊 Cold start survivor
-🎯 Anomaly-pilled
+[LinkedIn](https://www.linkedin.com/in/daniel-kelly-961518288/)
