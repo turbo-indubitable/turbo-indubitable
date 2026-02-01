@@ -17,15 +17,17 @@ Building unsupervised anomaly detection systems. Interested in representation le
 
 ## Skills / Focuses 
 
-📊 Uncertainty quantification • 🧠 Unsupervised learning • 🔒 Zero-config security 
+📊 Uncertainty quantification • 🧠 Unsupervised learning • 🔒 Zero-config security
+
 🛡️ DDoS mitigation • 🔍 Traffic forensics • 🚦 Routing diagnostics • 📡 sFlow/NetFlow
-🐳 Docker • 🐧 Linux • 🔌 MCP
+
 
 
 ## Tech
 
 🐍 Python • 🦀 Rust (solo or PyO3/Maturin) • 🔥 PyTorch • ☁️ GCP / RunPod
 
+🐳 Docker • 🐧 Linux • 🔌 MCP
 
 ## Elsewhere
 
